@@ -1,4 +1,15 @@
 All that's missing is the fork. Heh.
 
+<<<<<<< HEAD
 This is Amit
 This is Himanshu
+=======
+This is Amit.
+
+I have made some changes here… Please rebase after pull req.
+>>>>>>> added patch in readme
+
+
+
+
+Added some more changes
